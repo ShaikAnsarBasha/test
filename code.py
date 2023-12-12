@@ -1,5 +1,5 @@
-inp = True
-if inp and True:
+inpp = True
+if inpp and True:
     
     print("a0")
     print("a1")
