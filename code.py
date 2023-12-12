@@ -7,3 +7,5 @@ if inppp and True:
     print("a4")
 else:
     print("b0")
+if inpp in ("opm", "spm"):
+    print("is there")
