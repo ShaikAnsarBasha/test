@@ -6,5 +6,6 @@ if a or True:
     print("Irfan2")
 else:
     print("Ansar")
+    print("Ansar1")
 
 print("This is custom message")
