@@ -1,7 +1,7 @@
 print("Hello World")
 print("Hi")
 a = True
-if a:
+if a and False:
     print("Irfan")
 else:
     print("Ansar")
